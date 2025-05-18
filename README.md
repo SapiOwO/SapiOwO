@@ -20,7 +20,7 @@
 
 ## 🔭 Currently Exploring
 
-- 🚀 Actively contributing to **Project HUE**, pushing the boundaries of frontend possibilities.
+- 🎮 Currently working on **Project HUE**
 - 🌱 Immersing myself in the world of **C++**, expanding my programming horizons.
 
 <br/>
@@ -33,12 +33,6 @@
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
   </a>
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
