@@ -45,9 +45,7 @@ I build **local-first AI tools, backend systems, and interactive software experi
 
 My current areas of interest include **lightweight AI deployment, semantic memory systems, speech interfaces, computer vision workflows, asynchronous pipelines, and structured interface implementation**.
 
-The general focus is on building systems that are practical, maintainable, and designed to run efficiently on **local or consumer-grade hardware**, while still scaling well on higher-end machines for lower latency, larger models, and richer multimodal workflows.
-
-The goal is to make local AI experimentation more accessible through modular, plug-and-play systems that help both technical and non-technical users explore private LLM workflows without relying entirely on cloud services.
+The general focus is on building **scalable, plug-and-play local AI systems** that run efficiently on consumer-grade hardware, while still benefiting from higher-end machines for larger models, lower latency, and richer multimodal workflows.
 
 > **Note:** In each repository, you may find a dedicated `/docs` directory containing case studies, engineering notes, architectural decisions, and assistant rules. These documents are intended to help readers understand the system design trade-offs, follow technical updates, or adapt the assistant guidelines for their own AI projects.
 
