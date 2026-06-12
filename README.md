@@ -367,17 +367,8 @@ Exploring backend architecture, local-first workflows, and interface implementat
 
 </div>
 
----
 
-<div align="center">
 
-## GitHub Trophies
-
-<br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=SapiOwO&theme=discord&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=6" alt="GitHub Trophies" />
-
-</div>
 
 ---
 
