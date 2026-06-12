@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,25:1E1B4B,50:4C1D95,75:6D28D9,100:2563EB&height=230&section=header&text=SapiOwO&fontSize=72&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Local-First%20AI%20Systems%20%26%20Software%20Experiments&descSize=18&descAlignY=58" alt="SapiOwO Header Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,25:1E1B4B,50:4C1D95,75:6D28D9,100:2563EB&height=230&section=header&text=SapiOwO&fontSize=72&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Local-First%20AI%20Systems%20and%20Software%20Experiments&descSize=18&descAlignY=58" alt="SapiOwO Header Banner" />
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=900&lines=Building+Local-First+AI+Tools;Engineering+Backend+Systems+and+Memory+Pipelines;Exploring+Multimodal+Software+Workflows;Designing+Practical+Consumer-Grade+AI+Experiments" alt="Typing SVG" />
 
